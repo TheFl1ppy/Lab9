@@ -1,0 +1,90 @@
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\bin\Debug\net6.0\DataAccess.dll
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\Desktop\BackendApi\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\danil\OneDrive\Рабочий стол\FifthTask\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Документы\GitHub\PracticeAPI\SixthTask\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Рабочий стол\SixthTask\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\danil\OneDrive\Рабочий стол\EighthTask\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\bin\Debug\net6.0\Domain.dll
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\bin\Debug\net6.0\Domain.pdb
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+C:\Users\Fl1ppy\Desktop\lab9\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
